@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af95820754bd6304691f86ff94e970f9
+timeCreated: 1493656039
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerManager: {instanceID: 0}
+  - player: {instanceID: 0}
+  - sfx: {instanceID: 0}
+  - sfx2: {fileID: 8300000, guid: cf03ded64b5e68f4297ac8424b2d480e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

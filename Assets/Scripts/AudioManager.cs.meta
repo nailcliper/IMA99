@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 48c371fb6b111d74eb7decea365906c2
+timeCreated: 1495856537
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - attack1: {fileID: 8300000, guid: 3e23a48d46c89734d878d8dc69a85651, type: 3}
+  - attack2: {fileID: 8300000, guid: d82b7f536d9c6b840bec36931bbff669, type: 3}
+  - attack3: {fileID: 8300000, guid: 93336eb05de6eb348a02db581a34908a, type: 3}
+  - cancel: {fileID: 8300000, guid: c071b9ad942b95e42a2e6a1528f78f0c, type: 3}
+  - enemyDestroy1: {fileID: 8300000, guid: c07c822730fe15743a4faaa60ffff3c0, type: 3}
+  - enemyDestroy2: {fileID: 8300000, guid: f0bef484441075146a76422bc4445aba, type: 3}
+  - enemyDestroy3: {fileID: 8300000, guid: 79dbeb13c309f2a4d9c7d75cc7b36e1f, type: 3}
+  - extend: {fileID: 8300000, guid: 8f0c019bcc0c3304699be08829116c6d, type: 3}
+  - graze: {fileID: 8300000, guid: 55b8bbcacdcd25549a277a4da86b7328, type: 3}
+  - item: {fileID: 8300000, guid: cf03ded64b5e68f4297ac8424b2d480e, type: 3}
+  - masterSpark: {fileID: 8300000, guid: 250424b7a6d6e6940b3330f58e0f9b17, type: 3}
+  - ok: {fileID: 8300000, guid: 588e3c3faf207d8408d16a4cd405431d, type: 3}
+  - pause: {fileID: 8300000, guid: 968c08b1e09ff8d49ba227680912e03c, type: 3}
+  - playerBomb: {fileID: 8300000, guid: 713175e3279932445af79deee71163e8, type: 3}
+  - playerDead: {fileID: 8300000, guid: 48edaab47b8606a45b8cdab4cf8aae94, type: 3}
+  - playerPower: {fileID: 8300000, guid: 588e3c3faf207d8408d16a4cd405431d, type: 3}
+  - playerShot: {fileID: 8300000, guid: 0b6dfec645e26674b879eb392c7f204a, type: 3}
+  - select: {fileID: 8300000, guid: 7e170ab6da6ee7a4cb7ab4237d933c30, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

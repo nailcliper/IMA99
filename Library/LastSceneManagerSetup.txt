@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/joaks_Game/refactor.unity
+  isLoaded: 1
+  isActive: 1
